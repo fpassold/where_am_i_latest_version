@@ -1,4 +1,4 @@
-![Captura de tela de 2021-02-23 19-51-11.png](figures/Captura de tela de 2021-02-23 19-51-11.png)
+![Captura de tela de 2021-02-23 19-51-11.png](https://github.com/fpassold/where_am_i_latest_version/blob/main/figures/Captura%20de%20tela%20de%202021-02-23%2019-51-11.png)
 
 # Where am I - Latest version
 
@@ -254,7 +254,7 @@ local_costmap:
 
 Video available at: [Youube: Where Am I](https://youtu.be/rGd4agj_UdE)
 
-![Captura de tela de 2021-02-23 19-48-29](figures/Captura de tela de 2021-02-23 19-48-29.png)
+![Captura de tela de 2021-02-23 19-48-29](https://github.com/fpassold/where_am_i_latest_version/blob/main/figures/Captura de tela de 2021-02-23 19-48-29.png)
 
 ---
 

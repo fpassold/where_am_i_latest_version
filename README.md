@@ -1,3 +1,5 @@
+![Captura de tela de 2021-02-23 19-51-11.png](figures/Captura de tela de 2021-02-23 19-51-11.png)
+
 # Where am I - Latest version
 
 Where Am I Project - Latest Update (AMCL algorithm better tuned)
@@ -252,7 +254,7 @@ local_costmap:
 
 Video available at: [Youube: Where Am I](https://youtu.be/rGd4agj_UdE)
 
-![Captura de tela de 2021-02-23 19-48-29](figuras/Captura de tela de 2021-02-23 19-48-29.png)
+![Captura de tela de 2021-02-23 19-48-29](figures/Captura de tela de 2021-02-23 19-48-29.png)
 
 ---
 
